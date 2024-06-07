@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KateAditya
-- 👀 I’m interested in python
-- 🌱 I’m currently learning software engineering 
+- 👀 I’m interested in python,Java Full stack Developer.
+- 🌱 I’m currently learning Computer engineering 
 - 💞️ I’m looking to collaborate on  becoming a software engineer 
 - 
 - 📫 How to reach me adityakate300@gmail.com
