@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @KateAditya
-- 👀 I’m interested in DotNet,python,Java Full stack Developer etc.
-- 🌱 I’m currently learning Last Year Computer engineering  
-- 💞️ I’m looking to collaborate on  becoming a software engineer and Dotnet Developer. 
-- 📫 How to reach me [ adityakate300@gmail.com]
+👋 Hi, I’m @KateAditya.
+
+👀 I’m passionate about .NET, Python, and Java full-stack development.
+
+🌱 I’m currently in my final year of computer engineering, focusing on mastering software engineering principles.
+
+💞️ I’m eager to collaborate on projects that will help me grow as a software engineer, especially in .NET development. I’m also keen on contributing to innovative solutions that can make a positive impact.
+
+📫 You can reach me at [adityakate300@gmail.com].
 - 
 
 <!---
