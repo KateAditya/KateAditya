@@ -32,4 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kateaditya&show_icons=true&locale=en&layout=compact" alt="kateaditya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kateaditya&show_icons=true&locale=en" alt="kateaditya" /></p>
+
+
